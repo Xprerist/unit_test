@@ -1,2 +1,2 @@
 # unit_test
-This is my first unit test
+Just a small exercise.
